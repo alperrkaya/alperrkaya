@@ -84,7 +84,7 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Ca
   <img width="30px" src="https://www.shutterstock.com/image-vector/initial-letter-ky-monogram-sliced-260nw-1373223014.jpg" />
 </a>
 
-<a href="https://www.instagram.com/alperky__" target="_blank">  
+<a href="https://www.instagram.com/alperkaya.exe" target="_blank">  
   <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 
