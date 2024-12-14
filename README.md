@@ -67,11 +67,7 @@ I am a student at Istanbul Arel University.
 
 ## 💬 About Me 
 I love reading books, playing games, sport, camping, cycling, exploring new places, traveling and having fun with my friends.
-You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Call of Duty, Need for Speed Series.
-
-<a href="https://discord.com/channels/@4lperky" target="_blank">  
-  <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
-</a>
+You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Call of Duty.
 
 <a href="https://steamcommunity.com/id/alperky/" target="_blank">  
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" />
